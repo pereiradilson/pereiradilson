@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Olá meu nome é Adilson. Já trabalho com desenvolvimento web alguns anos. Meu foco era apenas em PHP utilizando o framework Laravel.
+Hello, my name is Adilson. I have been working in web development for a few years, focusing mainly on PHP and the Laravel framework. 
 
-Mas ano passado resolvi aprender novas tecnologias como NodeJS, ReactJS e React Native.
+However, last year I decided to learn new technologies such as NodeJS, ReactJS, and React Native. 
 
-E aqui estamos na RocketSeat fazendo o GoStack e adorando o curso 🚀
+Currently, I'm taking the GoStack course at RocketSeat and I'm loving it. 
+
+🚀🚀🚀
 
 <!--
 **pereiradilson/pereiradilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
